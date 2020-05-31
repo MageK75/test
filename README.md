@@ -1,2 +1,2 @@
 # test
-Test enviroment
+test environment
